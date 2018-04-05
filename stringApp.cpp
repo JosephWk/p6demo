@@ -28,7 +28,7 @@ int main()
 	sentence = "ThiS iS a CoOl program";
 	cout << convertCase(sentence) << endl;
 
-	sentence = "Programming";
+	sentence = "Programming Life";
 	cout << eraseVowels(sentence) << endl;
 
 	sentence = "Grim  returns  to the  planet of  apes!!";
