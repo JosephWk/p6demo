@@ -25,10 +25,10 @@ int main()
 	//char firstCh;
 	//string secondCh;
 
-	sentence = "ThiS iS a CoOl program";
+	sentence = "ThiS iS a CoOl program BrO";
 	cout << convertCase(sentence) << endl;
 
-	sentence = "Programming Life";
+	sentence = "Programming Life 2018";
 	cout << eraseVowels(sentence) << endl;
 
 	sentence = "Grim  returns  to the  planet of  apes!!";
